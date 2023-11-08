@@ -19,5 +19,8 @@ wget -0 essentialsX.jar https://cdn.modrinth.com/data/hXiIvTyT/versions/puUfqBpY
 wget -0 worldedit.jar https://dev.bukkit.org/projects/worldedit/files/4793142/download
 cd ..
 
+# Download server.properties
+wget -0 server.properties https://raw.githubusercontent.com/lopatoj/server4s/main/server.properties?token=GHSAT0AAAAAACKBYI3BXF4IPINPY3O57ZK6ZKMBDTQ
+
 # Run server
 java -jar server.jar
