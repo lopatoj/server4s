@@ -20,7 +20,7 @@ wget -0 worldedit.jar https://dev.bukkit.org/projects/worldedit/files/4793142/do
 cd ..
 
 # Download server.properties
-wget -0 server.properties https://raw.githubusercontent.com/lopatoj/server4s/main/server.properties?token=GHSAT0AAAAAACKBYI3BXF4IPINPY3O57ZK6ZKMBDTQ
+wget -0 server.properties https://raw.githubusercontent.com/lopatoj/server4s/main/server.properties
 
 # Run server
 java -jar server.jar
